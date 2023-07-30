@@ -1,0 +1,164 @@
+body{
+width: 100vw;
+display: flex;
+background-color: #ffffff;
+}
+
+.jenni_img{
+  height: 300px;
+  width: 220px;
+ border-style: ridge;
+ border-width: 5px;
+ border-color: rgb(83, 133, 128);
+ margin: 20px;
+}
+
+.header{
+  background-color: #a1c1be;
+  width: 70vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#090101;
+  border-radius: 50px;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-right: 50px;
+  font-family:italic;
+  font-size: 150% ;
+}
+
+.academic{
+  background-color: #a1c1be;
+  width: 33vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#0e0000;
+  border-radius: 50px;
+  margin-left: 10px;
+  margin-right: 50px;
+  margin-top: 10px;
+  font-family:italic;
+}
+
+.experience{
+  background-color: #e2e3d9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#0a0a0a;
+  width: 70vw;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family:italic;;
+}
+
+.interest{
+  background-color: #a1c1be;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#0c0c0c;
+  width: 35vw;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 10px;
+  font-family:italic;
+}
+
+.languages{
+  background-color: #f3f4e5;
+  width: 33vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#070707;
+  border-radius: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-left: 10px;
+  font-family:italic;
+}
+
+.profile{
+  background-color: #e2e3d9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#090808;
+  width: 70vw;
+  border-radius: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family:italic;
+}
+
+.skills{
+  background-color: #f3f4e5;
+  display: flex;
+  
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#0e0d0d;
+  width: 35vw;
+  border-radius: 50px;
+  margin-left: 50px;
+  margin-right: 10px;
+  margin-top: 10px;
+  font-family:italic;
+}
+
+.social{
+  background-color: #59554e;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#ffffff;
+  width: 70vw;
+  border-radius: 50px;
+  margin-left: 50px;
+  margin-top: 10px;
+  font-family:italic;
+  margin-bottom: 50px;
+}
+
+.languages-interest {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+
+}
+
+.skills-academic{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
